@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "title": "Post One",
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur dolorem a odit labore hic cumque est maxime odio autem! Sunt, tenetur aut maxime corrupti repellendus necessitatibus delectus asperiores nam mollitia. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur dolorem a odit labore hic cumque est maxime odio autem! Sunt, tenetur aut maxime corrupti repellendus necessitatibus delectus asperiores nam mollitia.",
+      "id": 1
+    },
+    {
+      "title": "Post One",
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur dolorem a odit labore hic cumque est maxime odio autem! Sunt, tenetur aut maxime corrupti repellendus necessitatibus delectus asperiores nam mollitia. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur dolorem a odit labore hic cumque est maxime odio autem! Sunt, tenetur aut maxime corrupti repellendus necessitatibus delectus asperiores nam mollitia.",
+      "id": 2
+    }
+  ]
+}
